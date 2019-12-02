@@ -3,7 +3,7 @@
 int main(void)
 {
 	int a, b, c;
-	b = 59;
+	b = 30;
 	c = 0;
 	for (;;)
 	{
